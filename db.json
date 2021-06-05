@@ -1,5 +1,5 @@
-{
-    "courses":[
+[
+    
         {
             "id":1,
             "name":"Programming for Everybody (Getting Started with Python)",
@@ -98,4 +98,4 @@
         }
 
     ]
-}
+
